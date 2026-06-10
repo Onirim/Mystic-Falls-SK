@@ -1,16 +1,16 @@
 ---
 title: "Mystic Falls"
 author: "Thibaut CRESPEL"
-date: "Version 2.1 Juin 2026"
+date: "Version 2.1 - Juin 2026"
 ---
 
 \cleardoublepage
 
 # Introduction
 
-Mystic Falls est un jeu de rôle propulsant les joueurs dans un univers inspiré des séries télévisées telles que Buffy contre les Vampires ou Teen Wolf. Vous y interprétez des lycéens ou de jeunes adultes à l'université dans la petite ville fictive de Mystic Falls, entre teendrama, mystère et horreur, faisant vous même éventuellement partie des créatures qui peuplent les nuits... et les couloirs de l'académie.
+Mystic Falls est un jeu de rôle propulsant les joueurs dans un univers inspiré des séries télévisées telles que Buffy contre les Vampires ou Teen Wolf. Vous y interprétez des lycéens ou de jeunes adultes à l'université dans la petite ville fictive de Mystic Falls, entre teen drama, mystère et horreur, faisant vous même éventuellement partie des créatures qui peuplent les nuits... et les couloirs de l'académie.
 
-Le jeu est propulsé par le Skeleton System, un jeu de rôle maison se distinguant par son accessibilité et son orientation vers la montée en stress et la génération de drama inhérente à ce genre de cadres. Le jeu propose une génération assez complète de personnage incluant le cadre familial, différentes étapes de l'enfance pour créer des liens entre les joueurs, les complications familiales et personnelles, et va jusqu'à proposer un système de gestion académique (heureusement assez simple) pour générer des situations de stress et approfondir les relations entre élèves.
+Mystic Falls est propulsé par le Skeleton, un système de jeu se distinguant par son accessibilité et son orientation vers la montée en stress et la génération de drama inhérente à ce genre de cadres. Le jeu propose une génération assez complète de personnage incluant le cadre familial, différentes étapes de l'enfance pour créer des liens entre les joueurs, les complications familiales et personnelles, et va jusqu'à proposer un système de gestion académique (heureusement assez simple) pour générer des situations de stress et approfondir les relations entre élèves.
 
 Le Skeleton est un système de jeu simple et modulaire à lecture directe qui se spécialise dans le développement des personnages et la résolution de scènes rapides et émotionnellement fortes. Le jeu utilise un dé à 100 faces (un dé à 10 faces de dizaines et un dé à 10 faces d'unités) ainsi qu'un ou deux dés à 6 faces. Le concept du système est simple : lorsqu'une situation mérite d'être testée, on lance 1d100 et si le résultat est inférieur ou égal au score du personnage, le test est un succès, sinon c'est un échec.
 
@@ -18,17 +18,17 @@ Le Skeleton est un système de jeu simple et modulaire à lecture directe qui se
 
 # Création de personnage
 
-Les personnages de Mystic Falls sont des lycéens ou des étudiants à l'université (au choix du MJ) qui se retrouvent pris en étau entre leurs drama d'adolescents et les dangers du monde surnaturel et horrifique qu'ils découvrent dans la petite ville imaginaire de Mystic Falls (ou toute autre de votre cru). Il est recommandé de faire créer les personnages par tous les joueurs en même temps afin d'obtenir un groupe d'amis soudés (ou du moins liés ensemble).
+Les personnages de Mystic Falls sont des lycéens ou des étudiants à l'université qui se retrouvent pris en étau entre leurs drama d'adolescents et les dangers du monde surnaturel et horrifique qu'ils découvrent dans la petite ville imaginaire de Mystic Falls (ou toute autre de votre cru). Il est recommandé de faire créer les personnages par tous les joueurs en même temps afin d'obtenir un groupe d'amis soudés (ou du moins liés ensemble). Il est recommandé que tous les personnages joueurs de la table fassent partie du même établissement (lycée ou université).
 
 ## L'historique
 
-La création de l'historique du personnage permet de mieux le définir et de l'ancrer le personnage dans le cadre de campagne. Elle se fait étape par étape : la petite enfance pour tous les joueurs, puis leur étape pré-adolescente, et enfin l'étape adolescente.
+La création de l'historique du personnage permet de mieux le définir et de l'ancrer le personnage dans le cadre de campagne. Elle se fait étape par étape : la petite enfance pour tous les joueurs, puis leur étape pré-adolescente, puis l'étape adolescente et ainsi de suite.
 
 ### Petite enfance
 
 Depuis votre naissance jusqu'à vos 10 ans, dans quel cadre familial êtes-vous né et avez-vous grandi ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer. 
 
-Vous pouvez choisir votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous.
+\newpage
 
 | Milieu (1d10) | Activité familiale (1d10) |
 | --- | -------- |
@@ -39,11 +39,15 @@ Vous pouvez choisir votre ami d'enfance parmi les PJ autour de la table. Il est 
 | 8-9 Cadre | 1-2 Médecins, 3-4 Ingénieurs, 5-6 Professeurs, 7 Avocats, 8-9 Fonctionnaires, 10 Religieux |
 | 10 Riche | 1-3 Actionnaires, 4-5 Stars du show business, 6-7 Politiciens, 8-9 Chefs d'entreprise, 10 Richesse mystérieuse |
 
+Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous.
+
 Vous pouvez également définir le nombre de vos frères et sœurs en lançant quelques dés.
 
 | Taille de la fratrie (1d10) | Sexe (1d10) | Âge (1d10) |
 | ---- | --- | ---- |
 | 1-3 Un enfant, 4-6 Deux enfants , 7-8 Trois enfants, 9 Quatre enfants, 10 Cinq enfants | Pair Garçon, Impair Fille | 1-2 Beaucoup plus jeune que vous, 3-4 Plus jeune que vous, 5 Jumeaux, 6-7 Plus âgé que vous, 8-9 Beaucoup plus âgé que vous, 10 *Relancez* |
+
+\newpage
 
 ### Pré adolescence
 
@@ -64,6 +68,8 @@ Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel 
 
 Vous pouvez choisir un second ami d'enfance parmi les PJ autour de la table, qui vous a aidé à surmonter les crises familiales.
 
+\newpage
+
 ### Adolescence
 
 Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que les personnages découvrent leur principal problème personnel. Quel est-il ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer.
@@ -81,12 +87,14 @@ Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'e
 | 9 | Humiliations régulières |
 | 10 | Bagarreur |
 
+\newpage
+
 ### Contact avec le surnaturel
 
-Choisissez ce que vous désirerez jouer ou tirez sur la table suivante.
+Choisissez votre avenir ou tirez sur la table suivante.
 
 | 1d10 | Créature | Détails |
-| --- | --- | -------- |
+| --- | ---- | ----------- |
 | 1-3 | Humain | Vous ne faites pas partie des créatures terrifiantes qui peuplent la ville. Contrairement à vos camarades surnaturels, vous ne risquez pas de devenir un monstre, on peut toujours compter sur vous. |
 | 4-5 | Loup-Garou | Vous deviendrez une créature de griffe et de crocs qui hurle à la lune, tentant de résister à la rage qui risque de la submerger lorsque la faim de vie la tiraille. |
 | 6-7 | Sorcière | Vous pratiquez déjà la magie Wicca seule ou avec votre convent. Le vrai pouvoir s'éveillera bientôt en vous, rendant vos sorts puissants et menaçant de vous entraîner dans une spirale de corruption à chaque acte d'hubris. |
