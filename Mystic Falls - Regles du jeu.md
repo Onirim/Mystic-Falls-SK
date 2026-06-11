@@ -90,18 +90,6 @@ La création de l'historique des personnages permet de mieux les définir et de 
 | 9 | Handicap |
 | 10 | Rejet de l'autorité |
 
-### Contact avec le surnaturel
-
-> *Si vous deviez changer et devenir une créature de la nuit, laquelle choisiriez-vous ? Sélectionnez dans la table ci-dessous ou laissez le hasard décider.*
-
-| 1d10 | Créature | Détails |
-| --- | ---- | ----------- |
-| 1-3 | Humain | Vous ne faites pas partie des créatures terrifiantes qui peuplent la ville. Contrairement à vos camarades surnaturels, vous ne risquez pas de devenir un monstre, on peut toujours compter sur vous. |
-| 4-5 | Loup-Garou | Vous deviendrez une créature de griffe et de crocs qui hurle à la lune, tentant de résister à la rage qui risque de la submerger lorsque la faim de vie la tiraille. |
-| 6-7 | Sorcière | Vous pratiquez déjà la magie Wicca seule ou avec votre convent. Le vrai pouvoir s'éveillera bientôt en vous, rendant vos sorts puissants et menaçant de vous entraîner dans une spirale de corruption à chaque acte d'hubris. |
-| 8-9 | Vampire | Vous deviendrez une créature immortelle se nourrissant du sang des innocents et menaçant de céder à la frénésie lorsque la soif vous tiraille, vous éloignant de votre humanité. |
-| 10 | Leshy | Vous deviendrez une créature vengeresse façonnée comme une arme par la nature. Votre colère risquera de vous faire perdre la tête pour de bon alors que la pulsation des douleurs de la nature cognent dans votre cœur. |
-
 ## Environnement académique
 
 Les personnages de Mystic Falls sont tous étudiants : soit au lycée, soit à l'université. L'un des attraits de ce style de jeu est de cumuler les difficultés de l'adolescence ou de la vie de jeune adulte, la jungle de l'environnement académique, l'horreur et le surnaturel. Un soin particulier doit donc être apporté à l'environnement académique. Comme pour l'environnement familial, vous allez poser les questions pour chaque étape de la création de l'environnement académique à tous les joueurs, et ne passerez à l'étape suivante qu'une fois qu'ils auront tous répondu.
@@ -161,6 +149,22 @@ Typiquement les fraternités et sororités ont des noms formés de deux ou trois
 - **Omicron Sigma Ardos** : Fraternité d'étudiants intellectuels et geeks, engagés dans le journalisme local. Une partie d'entre eux seraient conspirationnistes.
 
 Interagir avec quelqu'un de sa clique ou de la même fraternité ou sororité peut apporter un bonus de +10 a un test de bagou.
+
+## Contact avec le surnaturel
+
+> *Si vous deviez changer et devenir une créature de la nuit, laquelle choisiriez-vous ? Sélectionnez dans la table ci-dessous ou laissez le hasard décider.*
+
+| 1d10 | Créature | Détails |
+| --- | ---- | ----------- |
+| 1-3 | Humain | Vous ne faites pas partie des créatures terrifiantes qui peuplent la ville. Contrairement à vos camarades surnaturels, vous ne risquez pas de devenir un monstre, on peut toujours compter sur vous. |
+| 4-5 | Loup-Garou | Vous deviendrez une créature de griffe et de crocs qui hurle à la lune, tentant de résister à la rage qui risque de la submerger lorsque la faim de vie la tiraille. |
+| 6-7 | Sorcière | Vous pratiquez déjà la magie Wicca seule ou avec votre convent. Le vrai pouvoir s'éveillera bientôt en vous, rendant vos sorts puissants et menaçant de vous entraîner dans une spirale de corruption à chaque acte d'hubris. |
+| 8-9 | Vampire | Vous deviendrez une créature immortelle se nourrissant du sang des innocents et menaçant de céder à la frénésie lorsque la soif vous tiraille, vous éloignant de votre humanité. |
+| 10 | Leshy | Vous deviendrez une créature vengeresse façonnée comme une arme par la nature. Votre colère risquera de vous faire perdre la tête pour de bon alors que la pulsation des douleurs de la nature cognent dans votre cœur. |
+
+Le jeu implique qu'un certain nombre de personnages autour de la table deviendront des monstres, des créatures qui mettront en tension les personnages avec leur famille, leurs amis, leurs camarades de cours, voir même leur propre groupe. Cependant, la transformation du personnage est un moment important qui se doit d'être bien amené. Voici donc les conseils que nous pouvons vous donner : 
+- Faites débuter les personnages joueurs en tant qu'humains d'abord, faites leur connaître un semblant de normalité avant de sombrer dans le surnaturel.
+- Ne les transformez pas tous en même temps sauf s'ils partagent tous la même nature. La transformation doit être amenée de manière organique et crédible.
 
 ## La personnalité
 
@@ -270,8 +274,6 @@ Tout au long d'un scénario, les personnages risquent de cumuler le **stress phy
 
 De plus, chaque nuit de sommeil fait disparaître un point de stress. Le stress disparaît toujours entre les scénarios.
 
-> La mécanique du stress a pour objectif de faire monter progressivement la tension au fil de la séance et à souligner la fragilité et l'humanité des personnages, qui ne peuvent encaisser continuellement sans finir par céder.
-
 ## Les traumas
 
 Certains échecs aux résistances physiques ou mentales laissent des séquelles que nous appelons traumas. Un trauma est généralement subi lors de l'échec d'un test de résistance, si le MJ le juge approprié. Chaque trauma impose un malus de **-10 aux tests de compétence**, en dehors des tests de résistance.
@@ -284,8 +286,8 @@ L'utilisation d'un matériel approprié pour réaliser une tâche ou un test peu
 
 - Jusqu'à deux **équipements généraux** peuvent être utilisés à la fois pour un test de compétence, permettant de cumuler un bonus allant jusqu'à +20.
 - Une **arme légère** (qui n'est pas faite pour un usage sérieux ou militaire telle qu'une batte de base-ball ou un couteau) apporte un bonus de +10 en dégâts, qui se traduit par un malus de -10 à la résistance physique de la cible.
-- Une **arme létale** (faite pour tuer comme une arme à feu, une arme de mêlée, une flèche) double le bonus de dégâts, le passant effectivement à +20.
-- Un **équipement de protection** apporte un bonus de +10 à la résistance physique par section du corps qu'il protège (torse, bras, jambes, bouclier, casque). Une protection complète avec un bouclier apporte donc un bonus maximum de +50 en résistance physique.
+- Une **arme létale** (comme une arme à feu, une arme de mêlée, une flèche, une tronçonneuse) double le bonus de dégâts, le passant effectivement à +20.
+- Un **équipement de protection** apporte un bonus de +10 à la résistance physique par section du corps qu'il protège (torse, bras, jambes, bouclier, casque). Une protection complète avec un bouclier apporte donc un bonus maximum de +50 en résistance physique. Tout ce qui est moins résistant qu'un blouson de cuir épais ne compte pas comme un équipement de protection.
 
 \cleardoublepage
 
@@ -306,7 +308,7 @@ Les cases d'économies représentent les ressources que le personnage a pu mettr
 
 ### Les dettes
 
-Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracter une dette. Pour chaque case d'économie gagnée, le personnage doit cocher deux cases de dette. Les dettes doivent être remboursées, soit via la dépense d'économies, soit en nature, en fonction de l'usurier. En général, tarder à rembourser une dette peut poser de gros problèmes au personnage.
+Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracter une dette. Pour chaque case d'économie gagnée, le personnage doit cocher une case de dette. Les dettes doivent être remboursées, soit via la dépense d'économies, soit en nature, en fonction de l'usurier. En général, tarder à rembourser une dette peut poser de gros problèmes au personnage.
 
 ## L'expérience
 
@@ -371,7 +373,7 @@ L'attribut de sérénité peut être testé pour éviter des accidents d'inatten
 
 ### Instabilité surnaturelle
 
-La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce qui se produit à chaque fois qu'un personnage subit un échec en maîtrise de soi et qu'il coche une de ses trois cases de trauma surnaturel.
+La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce qui se produit à chaque fois qu'un personnage subit un échec en maîtrise de soi et qu'il coche une de ses trois cases de trauma surnaturel (voir la fiche de créature spécifique).
 
 ## Évolution des valeurs
 
@@ -403,23 +405,6 @@ Le désir représente l'attirance physique, le besoin de séduction voir le crus
 
 Ce troisième axe de relation est celui des admirateurs et fans (ou leur version négative, les jaloux). Il représente l'estime accordée au personnage pour ce qu'il fait ou pour sa façon d'être. Les admirateurs et les fans aiment à se rapprocher de l'objet de leur admiration et à un haut niveau cela peut presque devenir maladif. **Accorder de l'attention** au PNJ est susceptible de faire monter leur admiration, si une affinité existe à ce niveau.
 
-## Générer aléatoirement une relation
-
-Vous pouvez générer une relation aléatoirement via cette table. Lancez 1d10 quatre fois : une fois pour l'amitié de départ, pour le désir de départ, pour l'admiration de départ et pour les affinités de départ. Une amitié négative est considéré comme une hostilité.
-
-| 1d10 | Positif ou négatif | Positif uniquement |
-| --- | --- | --- |
-| 1 | -3 | 0 |
-| 2 | -2 | 0 |
-| 3 | -1 | 1 |
-| 4 | 0 | 1 |
-| 5 | 0 | 1 |
-| 6 | 0 | 2 |
-| 7 | 1 | 2 |
-| 8 | 1 | 2 |
-| 9 | 2 | 3 |
-| 10 | 3 | 3 |
-
 ### Affinité
 
 Les affinités représentent les envies profondes du PNJ envers le PJ. Comme nous l'avons vu plus haut, chaque PNJ a un score allant de 0 à 3 dans ses axes de relation. Mais ce qui détermine ce que recherche vraiment le PNJ, ce sont ses affinités.
@@ -427,8 +412,6 @@ Les affinités représentent les envies profondes du PNJ envers le PJ. Comme nou
 - Une affinité sur l'axe d'amitié indique que le PNJ ressent une connexion particulière et une compréhension envers le PJ, et qu'il pourrait fort bien devenir son meilleur ami.
 - Une affinité sur l'axe de désir indique que le PNJ est attiré sentimentalement et érotiquement par le PJ et qu'il aimerait que ça aille plus loin.
 - Une affinité sur l'axe d'admiration indique que le PNJ porte un intérêt fort aux activités du PJ et qu'il souhaite devenir son apprenti ou son mentor, en fonction de ses propres compétences dans le domaine.
-
-Pour chaque axe de la relation (amitié, désir et admiration), lancez 1d6. Sur un résultat de 5 ou 6, une affinité existe pour cet axe de relation.
 
 ## Développer une relation
 
@@ -445,24 +428,35 @@ Le PNJ d'une relation fardeau peut être jaugé tout comme n'importe quel PNJ (c
 
 > Ces règles n'ont pas pour vocation de remplacer le roleplay, mais permettent aux joueurs de faire évoluer leurs relations de manière structurée afin qu'il soit plus aisé pour eux comme pour le MJ de savoir comment gérer le développement des relations.
 
+### Générer aléatoirement les relations
+
+Les trois axes de relation ainsi que les affinités peuvent être définis aléatoirement au moment où vous en avez besoin ou en amont (ce qui demandera au MJ de gérer les valeurs de son côté tant que les joueurs ne les connaissent pas).
+
+- Les axes amitié/hostilité, désir et admiration peuvent être définis via le lancer d'1d6-3 (0 étant le minimum)
+- pour chaque axe, il les chances qu'il existe une affinité sont de 5 ou 6 sur 1d6
+
 ## Découvrir une nouvelle affinité
 
-Lorsqu'un axe de relation atteint son niveau maximum, le MJ peut estimer qu'une nouvelle affinité peut être ajoutée au PNJ. En effet, celui-ci découvre peut être une facette méconnue du PJ ou apprend à l'apprécier d'une manière qu'il n'avait pas prévu.
+Lorsqu'un axe de relation atteint le nivau 5 (son maximum), le MJ peut estimer qu'une nouvelle affinité peut être ajoutée au PNJ. En effet, celui-ci découvre peut être une facette méconnue du PJ ou apprend à l'apprécier d'une manière qu'il n'avait pas prévu.
 
 \cleardoublepage
 
 # Créatures surnaturelles
 
-Les règles concernant les créatures surnaturelles sont pour la plupart inscrites sur la fiche de la créature. Un attribut majeur est cependant toujours présent - et central - dans les fiches des créatures surnaturelles : la maîtrise de soi.
+Chaque créature surnaturelle possède ses propres règles spéciales, peut développer ses propres pouvoirs particuliers, et vient avec un risque non négligeable de perte de contrôle. Ce risque est géré par une résistance surnaturelle : la maîtrise de soi.
 
 ## Maîtrise de soi
 
 Lorsqu'un événement est susceptible de mettre à mal le contrôle du personnage sur sa nature surnaturelle et laisser libre court à son côté monstrueux, il doit effectuer un test de maîtrise de soi. Ce test s'effectue de la même façon que les résistances physiques et mentales, en fait c'est une sorte de résistance d'auto-discipline.
 
-Le stress surnaturel est différent pour chaque créature, que cela soit la soif des vampires, la faim des loups-garous, l'hubris des sorcières ou la pulsation des leshys, il fonctionne néanmoins comme le stress physique ou mental classique.
+## Le stress surnaturel
+
+Le stress surnaturel est différent pour chaque créature, que cela soit la soif des vampires, la faim des loups-garous, l'hubris des sorcières ou la pulsation des leshys, il fonctionne néanmoins comme le stress physique ou mental classique : le personnage coche une case de stress surnaturel lorsqu'il a du faire un jet de maîtrise de soi, et chaque case cochée lui impose un malus de -10 aux prochains jets de maîtrise de soi.
+
+## Les traumas surnaturels
 
 Échouer à un test de maîtrise de soi fait encourir un trauma surnaturel. Contrairement aux traumas classiques, les traumas surnaturels sont spécifiques à chaque créature et sont précisés sur la fiche de personnage. Ils sont échelonnés sur trois niveaux, du moins grave au plus grave. Lors d'un échec à la maîtrise de soi, il convient de juger des complications qui peuvent avoir lieu : est-ce qu'un autre élève a vu la scène ? Si oui, le PJ peut perdre 1d6 voir 2d6 points de popularité !
 
 ## Perte totale de contrôle
 
-> A retravailler ?
+A retravailler ?
