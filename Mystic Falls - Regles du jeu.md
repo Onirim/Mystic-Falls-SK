@@ -127,14 +127,14 @@ Les personnages de Mystic Falls sont tous étudiants : soit au lycée, soit à l
 
 > *Votre activité annexe principale est importante pour réussir vos études car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est joue également un rôle de marqueur social important pour les étudiants. Quelle activité annexe pratiquez vous ? Inspirez-vous de la table ci-après ou laissez les dés vous inspirer.*
 
-| Catégorie (1d6) | Détail (1d6) |
-| --- | --- |
-| 1 Sport | 1 Football américain, 2 Basketball, 3 Natation, 4 Athlétisme, 5 Hockey sur glace, 6 Pom-pom-girl |
-| 2 Arts de la scène | 1 Théâtre, 2-3 Chorale, 4 Orchestre, 5-6 Danse |
-| 3 Médias | 1-2 Journal de l'établissement, 3-4 Radio de l'établissement, 5-6 Annuaire de l'établissement (Yearbook) |
-| 4 Engagement | 1-2 Conseil étudiant, 3-4 Bénévolat, 5-6 Associatif |
-| 5 Compétition intellectuelle | 1-2 Club de débat, 3-4 Mathématiques, 5-6 Sciences |
-| 6 Divers | 1-2 Club de jeux, 3-4 Club de cuisine, 5-6 Club d'échecs |
+| 1d6| Catégorie | Détail (1d6) |
+| --- | --- | -------- |
+| 1 | Sport | 1 Football américain, 2 Basketball, 3 Natation, 4 Athlétisme, 5 Hockey sur glace, 6 Pom-pom-girl |
+| 2 | Arts de la scène | 1 Théâtre, 2-3 Chorale, 4 Orchestre, 5-6 Danse |
+| 3 | Médias | 1-2 Journal de l'établissement, 3-4 Radio de l'établissement, 5-6 Annuaire de l'établissement (Yearbook) |
+| 4 | Engagement | 1-2 Conseil étudiant, 3-4 Bénévolat, 5-6 Associatif |
+| 5 | Compétition intellectuelle | 1-2 Club de débat, 3-4 Mathématiques, 5-6 Sciences |
+| 6 | Divers | 1-2 Club de jeux, 3-4 Club de cuisine, 5-6 Club d'échecs |
 
 Les membres d'une même activité se connaissent généralement et se considèrent parfois comme des camarades, parfois comme des rivaux, ce qui peut apporter un modificateur de +10 au bagou lorsque l'on interagit avec un membre de son activité annexe (mais -10 s'il vous considère comme son rival).
 
@@ -168,7 +168,7 @@ Indiquez la personnalité de votre personnage dans la section des informations g
 
 ## L'exutoire
 
-Lorsque le stress s'accumule, le personnage a besoin de libérer la pression accumulée et de se ressourcer. De quelle manière le fait-il ? En s'ouvrant avec quelqu'un de confiance ? En pratiquant un art ? Une activité sportive intense ? Via une addiction ou un comportement violent ? Choisissez un exutoires qui lui corresponde. L'exutoire sera nécessaire lorsque votre personnage voudra faire **diminuer son stress mental**.
+Lorsque le stress s'accumule, le personnage a besoin de libérer la pression accumulée et de se ressourcer. De quelle manière le fait-il ? En s'ouvrant avec quelqu'un de confiance ? En pratiquant un art ? Une activité sportive intense ? Via une addiction ou un comportement violent ? Choisissez un exutoires qui lui corresponde. L'exutoire sera nécessaire lorsque votre personnage voudra faire diminuer son stress mental.
 
 ## La complication
 
@@ -195,16 +195,15 @@ Les scores dans les 12 compétences sont exprimées en pourcentage et représent
 
 ## Les spécialités
 
-Votre personnage débute le jeu avec 3 spécialités. Une spécialité est un domaine de compétence précis apportant un **bonus de +10** à la valeur d'une compétence quand la spécialité peut s'appliquer. On peut appliquer jusqu'à deux spécialité différentes sur un même test.
+Votre personnage débute le jeu avec 3 spécialités. Une spécialité est un domaine de compétence précis apportant un **bonus de +10** à la valeur d'une compétence quand la spécialité peut s'appliquer. On peut appliquer jusqu'à deux spécialité différentes sur un même test. Pour le choix de vos spécialités, vous pouvez vous inspirer du cursus de votre personnage ou de son activité annexe.
 
-## Les langues
+### Les langues
 
-Chaque personnage parle sa langue natale. Chaque langage supplémentaire doit être acquis en tant que spécialité.
+Chaque personnage parle sa langue natale. Chaque langage supplémentaire doit être acquise en tant que spécialité.
 
 ## Les ressources
 
-Les ressources disponibles pour le personnage sont généralement inférieurs d'un niveau à celui de ses parents. 
-Si vous n'avez aucune idée du niveau de vie des parents de la famille de votre personnage, vous pouvez laisser les dés décider.
+Les ressources disponibles pour le personnage sont généralement inférieures d'un niveau au niveau de vie de ses parents. Pour connaître le niveau de vie de ses parents, basez-vous sur le cadre familial décidé lors de la première étape de la création de votre personnage. Si vous n'avez aucune idée du niveau de vie des parents de la famille de votre personnage, vous pouvez laisser les dés décider.
 
 | 1d100 | Niveau de vie |
 | --- | --- |
@@ -216,7 +215,7 @@ Si vous n'avez aucune idée du niveau de vie des parents de la famille de votre 
 
 ### Description des niveaux de vie
 
-- **Précaire** : Vous vivez dans un squat, à la rue ou en colocation dans un logement sordide. Les rentrées d'argent sont faibles et irrégulières. C'est de la survie à ce stade. C'est aussi le niveau que vous pouvez avoir si vous êtes l'enfant d'une famille vivant à un niveau de vie modeste ou précaire.
+- **Précaire** : Vous vivez chez vos parents, dans un squat, à la rue ou en colocation dans un logement sordide. Les rentrées d'argent sont faibles et irrégulières, vous vivez donc très chichement.
 - **Modeste** : Vous vivez dans un petit logement sans prétention et mangez tous les jours à votre faim, même si la qualité des repas laisse franchement à désirer. Les fins de mois sont invariablement difficiles.
 - **Confortable**: Vous vivez dans un logement confortable et ne manquez de rien, sans pour autant vivre dans le luxe.
 - **Aisé**: Vous vivez dans un grand logement, profitez d'une cuisine raffinée et êtes vêtu élégamment. Vous pouvez sortir où et quand vous le désirez et fréquenter le beau monde.
@@ -224,7 +223,7 @@ Si vous n'avez aucune idée du niveau de vie des parents de la famille de votre 
 
 ## Les résistances
 
-Deux résistances principales sont utilisés en jeu : la **résistance physique**et la **résistance mentale**. Ces attributs servent à votre personnage à se préserver des dangers du monde qui l'entoure. Plus votre personnage a des résistances élevés, plus il est capable de supporter les agressions et d'éviter les conséquences désastreuses. Le total des deux résistances doit être égal à 100, avec un minimum de 30 et un maximum de 70.
+Deux résistances principales sont utilisés en jeu : la **résistance physique** et la **résistance mentale**. Ces attributs servent à votre personnage à se préserver des dangers du monde qui l'entoure. Plus votre personnage a des résistances élevés, plus il est capable de supporter les agressions et d'éviter les conséquences désastreuses. Le total des deux résistances doit être égal à 100, avec un minimum de 30 et un maximum de 70.
 
 \cleardoublepage
 
@@ -311,21 +310,17 @@ Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracte
 
 ## L'expérience
 
-A la fin d’une séance, le MJ peut accorder de 1 à 3 coches d’expérience en fonction des actions des personnages et de la qualité de l'interprétation. Les joueurs peuvent cocher les case en forme de losange ◇ comme on en trouve au niveau des **compétences**, des **spécialités,** ou encore des **résistances**.
+A la fin d’une séance, le MJ peut accorder de 1 à 5 coches d’expérience en fonction des actions des personnages et de la qualité de l'interprétation. Les joueurs peuvent cocher les case en forme de losange ◇ comme on en trouve au niveau des **compétences**, des **spécialités,** ou encore des **résistances**.
 
 A la fin d’un scénario, tous les losanges cochés donnent droit à un jet de progression : pour les **compétences** et **résistances**, le joueur doit obtenir un résultat **strictement supérieur** à la valeur actuelle à faire progresser. S’il réussit, la valeur de son trait progresse du résultat d'1d6.
 
 Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce cas, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
 
-Le module **SKeleton : Mystic Falls&#32;**a pour vocation de vous faire jouer de jeunes gens confrontés au surnaturel dans un cadre contemporain. Pensez à des séries comme**&#32;Buffy contre les Vampires** ou **Teen Wolf** et vous aurez une idée de l'ambiance recherchée. Le module situe Mystic Falls quelque part dans les États-Unis d'Amérique, mais vous êtes libre de la placer où vous désirez.
-
-> Le module se concentre sur les créatures surnaturelles et sur l'environnement académique des personnages. Il ne présente pas d'univers établi : les MJ sont invités à développer eux-mêmes les secrets de leur campagne en s'inspirant de leurs sources préférées (après tout, si vous aimez le genre, vous avez certainement déjà des connaissances sur le sujet). Ainsi, vos joueurs avanceront dans l'inconnu et c'est exactement ainsi que le mystère peut se développer.
-
 \cleardoublepage
 
 # Faire vivre l'environnement
 
-Dans Mystic Falls, la vie au lycée ou à l'université est un élément aussi important pour le personnage que ses aventures surnaturelles, cela vaut donc le coup de suivre son évolution, sans entrer dans trop de détails. Nous suivrons donc trois indicateurs : les **résultats**, la **popularité**et la**sérénité**. Lors de la création du personnage, les résultats sont égaux au score de savoir du personnage, la popularité est égale à sa valeur de bagou et son score de divertissement est égal à sa résistance mentale.
+Dans Mystic Falls, la vie au lycée ou à l'université est un élément aussi important pour le personnage que ses aventures surnaturelles, cela vaut donc le coup de suivre son évolution, sans entrer dans trop de détails. Nous suivrons donc trois indicateurs : les **résultats**, la **popularité** et la**sérénité**. Lors de la création du personnage, les résultats sont égaux au score de savoir du personnage, la popularité est égale à sa valeur de bagou et son score de divertissement est égal à sa résistance mentale.
 
 ## Résultats
 
@@ -352,11 +347,11 @@ Les résultats représentent le niveau de l'étudiant dans ses différents cours
 - **Notation D** : Vous êtes l'idiot du village ou vous le faites exprès ? C'est l'enfer à la maison et les autres étudiants vous considèrent sans doute comme quelqu'un d'assez bête.
 - **Notation F** : Vous ne faites pas votre travail du tout, ne rendez pas vos devoirs, êtes absent la plupart du temps. Vous risquez le renvoi sous peu.
 
-L'attribut de résultats peut être testé pour obtenir des faveurs de la part de l'encadrement de l’établissement.
+De mauvaises notes peuvent aboutir à un conflit familial au cours duquel le personnage pourrait être forcé de réussir un test de résistance mentale ou subir un trauma de crise familiale. Faites comprendre à vos joueurs que les résultats scolaires ne sont pas une option !
 
 ### Rater les cours
 
-Lorsqu'un personnage rate des cours ou ne fait pas ses devoirs imposés, le MJ peut lui imposer une perte d'1d6 points de résultats.
+Lorsqu'un personnage rate des cours ou ne fait pas ses devoirs imposés, le MJ peut lui imposer une perte d'1d6 ou de 2d6 points de résultats en fonction de la gravité du manquement.
 
 ## Popularité
 
@@ -402,7 +397,7 @@ L'amitié représente l'affinité, la camaraderie et la sympathie que le PNJ peu
 
 ### Désir
 
-Le désir représente l'attirance physique, le besoin de séduction voir le crush du PNJ sur le PJ. Plus le score est élevé, et plus le PNJ aura d'attentes érotiques ou romantiques au sujet du PJ. Le score peut augmenter d'un cran après un **rencart** avec le PNJ**&#32;**si une affinité existe entre les personnages.
+Le désir représente l'attirance physique, le besoin de séduction voir le crush du PNJ sur le PJ. Plus le score est élevé, et plus le PNJ aura d'attentes érotiques ou romantiques au sujet du PJ. Le score peut augmenter d'un cran après un **rencart** avec le PNJ si une affinité existe entre les personnages. On peut être attiré par l'allure et la façon d'être de quelqu'un et chercher sa compagnie sans pour autant avoir d'ambition sexuelle à son sujet.
 
 ### Admiration
 
@@ -417,13 +412,21 @@ Vous pouvez générer une relation aléatoirement via cette table. Lancez 1d10 q
 | 1 | -3 | 0 |
 | 2 | -2 | 0 |
 | 3 | -1 | 1 |
-| 4 | -1 | 1 |
+| 4 | 0 | 1 |
 | 5 | 0 | 1 |
 | 6 | 0 | 2 |
 | 7 | 1 | 2 |
 | 8 | 1 | 2 |
 | 9 | 2 | 3 |
 | 10 | 3 | 3 |
+
+### Affinité
+
+Les affinités représentent les envies profondes du PNJ envers le PJ. Comme nous l'avons vu plus haut, chaque PNJ a un score allant de 0 à 3 dans ses axes de relation. Mais ce qui détermine ce que recherche vraiment le PNJ, ce sont ses affinités.
+
+- Une affinité sur l'axe d'amitié indique que le PNJ ressent une connexion particulière et une compréhension envers le PJ, et qu'il pourrait fort bien devenir son meilleur ami.
+- Une affinité sur l'axe de désir indique que le PNJ est attiré sentimentalement et érotiquement par le PJ et qu'il aimerait que ça aille plus loin.
+- Une affinité sur l'axe d'admiration indique que le PNJ porte un intérêt fort aux activités du PJ et qu'il souhaite devenir son apprenti ou son mentor, en fonction de ses propres compétences dans le domaine.
 
 Pour chaque axe de la relation (amitié, désir et admiration), lancez 1d6. Sur un résultat de 5 ou 6, une affinité existe pour cet axe de relation.
 
@@ -442,7 +445,7 @@ Le PNJ d'une relation fardeau peut être jaugé tout comme n'importe quel PNJ (c
 
 > Ces règles n'ont pas pour vocation de remplacer le roleplay, mais permettent aux joueurs de faire évoluer leurs relations de manière structurée afin qu'il soit plus aisé pour eux comme pour le MJ de savoir comment gérer le développement des relations.
 
-## Faire vivre les affinités
+## Découvrir une nouvelle affinité
 
 Lorsqu'un axe de relation atteint son niveau maximum, le MJ peut estimer qu'une nouvelle affinité peut être ajoutée au PNJ. En effet, celui-ci découvre peut être une facette méconnue du PJ ou apprend à l'apprécier d'une manière qu'il n'avait pas prévu.
 
