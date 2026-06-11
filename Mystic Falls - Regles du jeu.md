@@ -27,40 +27,36 @@ Le Skeleton est un système de jeu simple et modulaire à lecture directe qui se
 
 # Création de personnage
 
-Les personnages de Mystic Falls sont des élèves de lycée ou des étudiants à l'université qui se retrouvent pris en étau entre leurs drama d'adolescents ou de jeunes adultes et les dangers du monde surnaturel et horrifique qu'ils découvrent dans la petite ville imaginaire de Mystic Falls (ou toute autre de votre cru). Il est recommandé de faire créer les personnages par tous les joueurs en même temps afin d'obtenir un groupe d'amis soudés (ou du moins liés ensemble). Il est également recommandé que tous les personnages joueurs de la table fassent partie du même établissement (lycée ou université).
+La création des personnages est sans doute l'étape la plus importante du jeu. En effet, c'est l'alchimie entre les personnages qui donnera à la série tout son sel. Les personnages et les liens qu'ils tissent entre eux (et avec les PNJ) sont l'essence même des séries de drame surnaturel. Il est recommandé de faire créer les personnages par tous les joueurs en même temps afin d'obtenir un groupe d'amis soudés (ou du moins liés ensemble). Il est également recommandé que tous les personnages joueurs de la table fassent partie du même établissement (lycée ou université).
 
-## L'historique
+## Environnement familial
 
-La création de l'historique du personnage permet de mieux le définir et de l'ancrer le personnage dans le cadre de campagne. Elle se fait étape par étape : la petite enfance pour tous les joueurs, puis leur étape pré-adolescente, puis l'étape adolescente et ainsi de suite.
+La création de l'historique des personnages permet de mieux les définir et de les ancrer dans le cadre de la série. Elle se fait étape par étape avec les joueurs autour de la table. Faites en sorte que chacun ait un crayon et un brouillon, puis posez-leur à tous les questions présentées dans chaque étape de leur vie. Passez à l'étape suivant quand ils ont tous répondu.
 
 ### Petite enfance
 
-Depuis votre naissance jusqu'à vos 10 ans, dans quel cadre familial êtes-vous né et avez-vous grandi ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer. 
+> *Depuis votre naissance jusqu'à vos 10 ans, dans quel cadre familial êtes-vous né et avez-vous grandi ? Inspirez-vous librement dans la table ci-dessous ou laissez le hasard vous inspirer.*
 
-\newpage
+| 1d10 | Milieu (1d10) | Activité familiale (1d10) |
+| --- | ---- | ---------- |
+| 1 | Illégalité | 1-3 Tripot ou bar clandestin, 4-6 Prostitution, 7-8 Cambrioleurs, 9-10 Grand banditisme |
+| 2-3 | Agricole | 1-3 Agriculteurs, 4-6 Éleveurs, 7-8 Bûcherons, 9-10 Employés communaux |
+| 4-5 | Ouvrier | 1-2 Ouvriers d'usine, 3-4 Assistants médicaux, 5 Garagistes, 6 Techniciens, 7 Agents de police, 8 Pompiers, 9-10 Ouvriers en bâtiment |
+| 6-7 | Commerçant | 1-2 Employés en magasin, 3 Libraires, 4 Vendeurs en friperie, 5 Fleuristes, 6-7 Employés en restauration, 8 Employés en centre de loisirs, 9 Vendeurs en vidéoclub, 10 Démarcheurs |
+| 8-9 | Cadre | 1-2 Médecins, 3-4 Ingénieurs, 5-6 Professeurs, 7 Avocats, 8-9 Fonctionnaires, 10 Religieux |
+| 10 | Huppé | 1-3 Actionnaires, 4-5 Stars du show business, 6-7 Politiciens, 8-9 Chefs d'entreprise, 10 Richesse mystérieuse |
 
-| Milieu (1d10) | Activité familiale (1d10) |
-| --- | -------- |
-| 1 Illégalité | 1-3 Tripot ou bar clandestin, 4-6 Prostitution, 7-8 Cambrioleurs, 9-10 Grand banditisme |
-| 2-3 Agricole | 1-3 Agriculteurs, 4-6 Éleveurs, 7-8 Bûcherons, 9-10 Employés communaux |
-| 4-5 Ouvrier | 1-2 Ouvriers d'usine, 3-4 Assistants médicaux, 5 Garagistes, 6 Techniciens, 7 Agents de police, 8 Pompiers, 9-10 Ouvriers en bâtiment |
-| 6-7 Commerçant | 1-2 Employés en magasin, 3 Libraires, 4 Vendeurs en friperie, 5 Fleuristes, 6-7 Employés en restauration, 8 Employés en centre de loisirs, 9 Vendeurs en vidéoclub, 10 Démarcheurs |
-| 8-9 Cadre | 1-2 Médecins, 3-4 Ingénieurs, 5-6 Professeurs, 7 Avocats, 8-9 Fonctionnaires, 10 Religieux |
-| 10 Riche | 1-3 Actionnaires, 4-5 Stars du show business, 6-7 Politiciens, 8-9 Chefs d'entreprise, 10 Richesse mystérieuse |
+> *Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous.*
 
-Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous.
-
-Vous pouvez également définir le nombre de vos frères et sœurs en lançant quelques dés.
+> *Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer.*
 
 | Taille de la fratrie (1d10) | Sexe (1d10) | Âge (1d10) |
 | ---- | --- | ---- |
 | 1-3 Un enfant, 4-6 Deux enfants , 7-8 Trois enfants, 9 Quatre enfants, 10 Cinq enfants | Pair Garçon, Impair Fille | 1-2 Beaucoup plus jeune que vous, 3-4 Plus jeune que vous, 5 Jumeaux, 6-7 Plus âgé que vous, 8-9 Beaucoup plus âgé que vous, 10 *Relancez* |
 
-\newpage
-
 ### Pré adolescence
 
-Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer.
+> *Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer.*
 
 | 1d10 | Difficultés familiale |
 | --- | --------- |
@@ -75,13 +71,11 @@ Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel 
 | 9 | Famille victime de racisme |
 | 10 | Difficultés avec la justice |
 
-Vous pouvez choisir un second ami d'enfance parmi les PJ autour de la table, qui vous a aidé à surmonter les crises familiales.
-
-\newpage
+> *Vous pouvez choisir un second ami d'enfance parmi les PJ autour de la table, qui vous a soutenu lors les crises familiales.*
 
 ### Adolescence
 
-Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que les personnages découvrent leur principal problème personnel. Quel est-il ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer.
+> *Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que les vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider.*
 
 | 1d10 | Difficultés personnelles |
 | --- | --------- |
@@ -92,15 +86,13 @@ Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'e
 | 5 | Mauvaise réputation |
 | 6 | Difficultés dans les études |
 | 7 | Travail à mi-temps difficile |
-| 8 | Harcèlement |
-| 9 | Humiliations régulières |
-| 10 | Bagarreur |
-
-\newpage
+| 8 | Harcèlement scolaire |
+| 9 | Handicap |
+| 10 | Rejet de l'autorité |
 
 ### Contact avec le surnaturel
 
-Choisissez votre avenir ou tirez sur la table suivante.
+> *Si vous deviez changer et devenir une créature de la nuit, laquelle choisiriez-vous ? Sélectionnez dans la table ci-dessous ou laissez le hasard décider.*
 
 | 1d10 | Créature | Détails |
 | --- | ---- | ----------- |
@@ -112,13 +104,13 @@ Choisissez votre avenir ou tirez sur la table suivante.
 
 ## Environnement académique
 
-Les personnages de Mystic Falls sont tous étudiants : soit au lycée, soit à l'université. L'un des attraits de ce style de jeu est de cumuler les difficultés de l'adolescence ou de la vie de jeune adulte, la jungle de l'environnement académique, l'horreur et le surnaturel. Voici donc des attributs qui permettent d'ancrer les personnages dans leur environnement.
+Les personnages de Mystic Falls sont tous étudiants : soit au lycée, soit à l'université. L'un des attraits de ce style de jeu est de cumuler les difficultés de l'adolescence ou de la vie de jeune adulte, la jungle de l'environnement académique, l'horreur et le surnaturel. Un soin particulier doit donc être apporté à l'environnement académique. Comme pour l'environnement familial, vous allez poser les questions pour chaque étape de la création de l'environnement académique à tous les joueurs, et ne passerez à l'étape suivante qu'une fois qu'ils auront tous répondu.
 
 ### Parcours académique
 
-Qu'ils soient au lycée ou à l'université, les étudiants doivent choisir une thématique pour leurs cours spécialisés. En voici une liste ! Pas d'idées ? Vous pouvez tirer sur cette table via 1d10. A ce stade, vous pouvez décider de remplacer l'une des spécialités choisies pour votre personnage par une ou plusieurs relatives à ses cours.
+> *Que vous soyez au lycée ou à l'université, avez du choisir un cursus pour vos cours de spécialité. Vous pouvez vous inspirer de la table ci-après ou tirer sur cette table via 1d10.*
 
-| 1d10 | Thématique | Exemple de cours |
+| 1d10 | Cursus | Exemple de cours |
 | --- | --- | --- |
 | 1 | Sciences | Biologie, chimie, physique, sciences de la terre |
 | 2 | Technologie | Programmation, cybersécurité, robotique, web |
@@ -131,9 +123,9 @@ Qu'ils soient au lycée ou à l'université, les étudiants doivent choisir une 
 | 9 | Santé & médecine | Anatomie, nutrition, premiers secours |
 | 10 | Métiers manuels | Menuiserie, mécanique, cuisine |
 
-### Activité annexes
+### Activité annexe
 
-L'activité annexes principale du personnage est importante pour réussir ses études aux États-Unis car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est tout également un marqueur social important pour les étudiants. Quelle activité annexe pratiquez vous ?
+> *Votre activité annexe principale est importante pour réussir vos études car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est joue également un rôle de marqueur social important pour les étudiants. Quelle activité annexe pratiquez vous ? Inspirez-vous de la table ci-après ou laissez les dés vous inspirer.*
 
 | Catégorie (1d6) | Détail (1d6) |
 | --- | --- |
@@ -144,11 +136,11 @@ L'activité annexes principale du personnage est importante pour réussir ses é
 | 5 Compétition intellectuelle | 1-2 Club de débat, 3-4 Mathématiques, 5-6 Sciences |
 | 6 Divers | 1-2 Club de jeux, 3-4 Club de cuisine, 5-6 Club d'échecs |
 
-Les membres d'une même activité se connaissent généralement et se considèrent parfois comme des camarades, parfois comme des concurrents, ce qui peut apporter un modificateur de 10 au bagou lorsque l'on interagit avec un membre de son activité annexe.
+Les membres d'une même activité se connaissent généralement et se considèrent parfois comme des camarades, parfois comme des rivaux, ce qui peut apporter un modificateur de +10 au bagou lorsque l'on interagit avec un membre de son activité annexe (mais -10 s'il vous considère comme son rival).
 
 ### Cliques, fraternités & sororités
 
-Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutient mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune.
+> *Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutient mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune.*
 
 | 1d6 | Clique | Profil |
 | --- | --- | --- |
@@ -159,9 +151,14 @@ Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce so
 | 5 | Rebelles | Hors système ou antisystème |
 | 6 | Geeks | Passionnés de culture niche |
 
-A l'université, les étudiants peuvent rejoindre une fraternité ou une sororité. Contrairement aux cliques, ce sont des organisations formelles avec un processus d'intégration, une maison commune et des obligations réelles.
+> *Si vous êtes à l'université, vous pouvez rejoindre une fraternité ou une sororité. Contrairement aux cliques, ce sont des organisations formelles avec un processus d'intégration, une maison commune et des obligations réelles. Avez-vous rejoint une des fraternités ou des sororités à ce stade ?*
 
-Typiquement les fraternités et sororités ont des noms formés de deux ou trois lettres grecques combinées (par exemple Alpha Sigma Nu ou encore Phi Omega). Le MJ est invité à proposer deux fraternités et deux sororités parmi lesquelles les étudiants à l'université pourront faire leur choix.
+Typiquement les fraternités et sororités ont des noms formés de deux ou trois lettres grecques combinées (par exemple Alpha Sigma Nu ou encore Phi Omega). Voici quatre propositions de fraternités et de sororités pour votre série, vous pouvez bien sûr créer les votres !
+
+- **Kappa Kappa Tau** : Sororité d'étudiantes qui ont la réputation d'être particulièrement portées sur le mysticisme, l'art et la philosophie.
+- **Delta Nyx** : Sororité d'étudiantes sociables et actives dans les événements de l'université ainsi que dans les oeuvres de charité. Beaucoup sont cheerleaders et populaires.
+- **Phi Iota Ketos** :  Fraternité d'étudiants réputés pour leurs résultats sportifs ainsi que pour leurs fêtes débridées. S'entendent apparemment bien avec Delta Nyx.
+- **Omicron Sigma Ardos** : Fraternité d'étudiants intellectuels et geeks, engagés dans le journalisme local. Une partie d'entre eux seraient conspirationnistes.
 
 Interagir avec quelqu'un de sa clique ou de la même fraternité ou sororité peut apporter un bonus de +10 a un test de bagou.
 
