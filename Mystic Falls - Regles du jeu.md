@@ -1,5 +1,6 @@
 ---
 title: "Mystic Falls"
+subtitle: "Un jeu de rôle de mystères surnaturels et de drames adolescents"
 author: "Thibaut CRESPEL"
 date: "Version 2.1 - Juin 2026"
 ---
@@ -10,6 +11,14 @@ date: "Version 2.1 - Juin 2026"
 
 Mystic Falls est un jeu de rôle propulsant les joueurs dans un univers inspiré des séries télévisées telles que Buffy contre les Vampires ou Teen Wolf. Vous y interprétez des lycéens ou de jeunes adultes à l'université dans la petite ville fictive de Mystic Falls, entre teen drama, mystère et horreur, faisant vous même éventuellement partie des créatures qui peuplent les nuits... et les couloirs de l'académie.
 
+## Le cadre de jeu
+
+Par défaut, le jeu se déroule dans une petite ville fictive située aux Etats-Unis d'Amérique, comme dans la plupart des séries télé du genre. Notre petite ville, appelons la Mystic Falls, cache de sombres secrets et se trouve au coeur d'un embroglio d'influences surnaturelles auquelles les adultes ne croient en général pas, ou que le shérif tente de cacher. Avec ses 35 000 habitants, Mystic Falls possède tout ce qu'une petite ville se doit de posséder : un lycée, une petite université, un hôpital, un centre commercial, deux ou trois boites de nuit, etc. On y trouve aussi des lieux mystérieux où il est déconseillé de se rendre : une ancienne base militaire désaffectée, un vieux centre commercial à l'abandon, et différentes ruines dans les bois dans lesquelles disparaissent parfois de jeunes explorateurs trop curieux.
+
+Vous faites partie des jeunes gens qui étudient à Mystic Falls au lycée ou à l'université. Vos camarades et vous allez vous retrouver confrontés aux mystères surnaturels remontant à la surface de la ville et menaçant de s'en prendre à vous, à vos amis, à votre famille. Peut-être la ville vous marquera t-elle de son empreinte et deviendrez-vous un monstre, tentant de concilier votre vie d'étudiant, vos difficultés d'adolescent ou de jeune adulte, ainsi la part sombre en vous.
+
+## Le système de jeu
+
 Mystic Falls est propulsé par le Skeleton, un système de jeu se distinguant par son accessibilité et son orientation vers la montée en stress et la génération de drama inhérente à ce genre de cadres. Le jeu propose une génération assez complète de personnage incluant le cadre familial, différentes étapes de l'enfance pour créer des liens entre les joueurs, les complications familiales et personnelles, et va jusqu'à proposer un système de gestion académique (heureusement assez simple) pour générer des situations de stress et approfondir les relations entre élèves.
 
 Le Skeleton est un système de jeu simple et modulaire à lecture directe qui se spécialise dans le développement des personnages et la résolution de scènes rapides et émotionnellement fortes. Le jeu utilise un dé à 100 faces (un dé à 10 faces de dizaines et un dé à 10 faces d'unités) ainsi qu'un ou deux dés à 6 faces. Le concept du système est simple : lorsqu'une situation mérite d'être testée, on lance 1d100 et si le résultat est inférieur ou égal au score du personnage, le test est un succès, sinon c'est un échec.
@@ -18,7 +27,7 @@ Le Skeleton est un système de jeu simple et modulaire à lecture directe qui se
 
 # Création de personnage
 
-Les personnages de Mystic Falls sont des lycéens ou des étudiants à l'université qui se retrouvent pris en étau entre leurs drama d'adolescents et les dangers du monde surnaturel et horrifique qu'ils découvrent dans la petite ville imaginaire de Mystic Falls (ou toute autre de votre cru). Il est recommandé de faire créer les personnages par tous les joueurs en même temps afin d'obtenir un groupe d'amis soudés (ou du moins liés ensemble). Il est recommandé que tous les personnages joueurs de la table fassent partie du même établissement (lycée ou université).
+Les personnages de Mystic Falls sont des élèves de lycée ou des étudiants à l'université qui se retrouvent pris en étau entre leurs drama d'adolescents ou de jeunes adultes et les dangers du monde surnaturel et horrifique qu'ils découvrent dans la petite ville imaginaire de Mystic Falls (ou toute autre de votre cru). Il est recommandé de faire créer les personnages par tous les joueurs en même temps afin d'obtenir un groupe d'amis soudés (ou du moins liés ensemble). Il est également recommandé que tous les personnages joueurs de la table fassent partie du même établissement (lycée ou université).
 
 ## L'historique
 
