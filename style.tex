@@ -19,3 +19,30 @@
 
 \raggedbottom % Empêche d'étirer verticalement les paragraphes pour remplir les pages
 
+\usepackage{fontspec}
+\setmainfont{Georgia}[
+  FakeBold=0.3
+]
+
+% Quotes françaises
+\usepackage{etoolbox}
+\renewenvironment{quote}{
+  \itshape«~
+}{
+  ~»
+}
+
+
+% Tableaux
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{booktabs}
+\usepackage{etoolbox}
+
+% Couleur des lignes alternées
+\definecolor{rowgray}{gray}{0.93}
+
+% Style automatique pour tous les tableaux
+\AtBeginEnvironment{longtable}{
+  \rowcolors{2}{rowgray}{white}
+}

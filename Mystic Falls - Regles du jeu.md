@@ -1,6 +1,6 @@
 ---
-title: "Mystic Falls"
-subtitle: "Un jeu de rôle de mystères surnaturels et de drames adolescents"
+title: "Les monstres que nous sommes"
+subtitle: "Un jeu de rôle de monstres, de mystères et de drames adolescents inspiré de nos séries télévisées préférées"
 author: "Thibaut CRESPEL"
 date: "Version 2.1 - Juin 2026"
 ---
@@ -9,11 +9,11 @@ date: "Version 2.1 - Juin 2026"
 
 # Introduction
 
-Mystic Falls est un jeu de rôle propulsant les joueurs dans un univers inspiré des séries télévisées telles que Buffy contre les Vampires ou Teen Wolf. Vous y interprétez des lycéens ou de jeunes adultes à l'université dans la petite ville fictive de Mystic Falls, entre teen drama, mystère et horreur, faisant vous même éventuellement partie des créatures qui peuplent les nuits... et les couloirs de l'académie.
+**Les monstres que nous sommes** est un jeu de rôle propulsant les joueurs dans un univers inspiré de séries télévisées bien connues mettant en scène des lycéens ou de jeunes étudiants dans une petite ville fictive, entre mystères surnaturels, drames adolescents et horreur. Dans ce jeu, les personnages de vos joueurs devront composer avec la complexité de leur vie compliquée d'adolescents, avec leurs transformations surnaturelles, tout en essayant de protéger leur ville des mystérieux dangers qui y rôdent.
 
 ## Le cadre de jeu
 
-Par défaut, le jeu se déroule dans une petite ville fictive située aux Etats-Unis d'Amérique, comme dans la plupart des séries télé du genre. Notre petite ville, appelons la Mystic Falls, cache de sombres secrets et se trouve au coeur d'un embroglio d'influences surnaturelles auquelles les adultes ne croient en général pas, ou que le shérif tente de cacher. Avec ses 35 000 habitants, Mystic Falls possède tout ce qu'une petite ville se doit de posséder : un lycée, une petite université, un hôpital, un centre commercial, deux ou trois boites de nuit, etc. On y trouve aussi des lieux mystérieux où il est déconseillé de se rendre : une ancienne base militaire désaffectée, un vieux centre commercial à l'abandon, et différentes ruines dans les bois dans lesquelles disparaissent parfois de jeunes explorateurs trop curieux.
+Par défaut, le jeu se déroule dans une petite ville fictive située aux Etats-Unis d'Amérique, comme dans la plupart des séries télé du genre. Notre petite ville cache de sombres secrets et se trouve au coeur d'un embroglio d'influences surnaturelles auquelles les adultes ne croient en général pas, ou que le shérif tente de cacher. Avec ses 35 000 habitants, notre agglomération possède tout ce qu'une petite ville se doit de posséder : un lycée, une petite université, un hôpital, un centre commercial, deux ou trois boites de nuit, etc. On y trouve aussi des lieux mystérieux où il est déconseillé de se rendre : une ancienne base militaire désaffectée, un vieux centre commercial à l'abandon, et différentes ruines dans les bois dans lesquelles disparaissent parfois de jeunes explorateurs trop curieux.
 
 Vous faites partie des jeunes gens qui étudient à Mystic Falls au lycée ou à l'université. Vos camarades et vous allez vous retrouver confrontés aux mystères surnaturels remontant à la surface de la ville et menaçant de s'en prendre à vous, à vos amis, à votre famille. Peut-être la ville vous marquera t-elle de son empreinte et deviendrez-vous un monstre, tentant de concilier votre vie d'étudiant, vos difficultés d'adolescent ou de jeune adulte, ainsi la part sombre en vous.
 
@@ -35,9 +35,9 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 ### Petite enfance
 
-> *Depuis votre naissance jusqu'à vos 10 ans, dans quel cadre familial êtes-vous né et avez-vous grandi ? Inspirez-vous librement dans la table ci-dessous ou laissez le hasard vous inspirer.*
+> Depuis votre naissance jusqu'à vos 10 ans, dans quel cadre familial êtes-vous né et avez-vous grandi ? Inspirez-vous librement dans la table ci-dessous ou laissez le hasard vous inspirer.
 
-| 1d10 | Milieu (1d10) | Activité familiale (1d10) |
+| **1d10** | **Milieu** | **Activité familiale (1d10)** |
 | --- | ---- | ---------- |
 | 1 | Illégalité | 1-3 Tripot ou bar clandestin, 4-6 Prostitution, 7-8 Cambrioleurs, 9-10 Grand banditisme |
 | 2-3 | Agricole | 1-3 Agriculteurs, 4-6 Éleveurs, 7-8 Bûcherons, 9-10 Employés communaux |
@@ -46,19 +46,19 @@ La création de l'historique des personnages permet de mieux les définir et de 
 | 8-9 | Cadre | 1-2 Médecins, 3-4 Ingénieurs, 5-6 Professeurs, 7 Avocats, 8-9 Fonctionnaires, 10 Religieux |
 | 10 | Huppé | 1-3 Actionnaires, 4-5 Stars du show business, 6-7 Politiciens, 8-9 Chefs d'entreprise, 10 Richesse mystérieuse |
 
-> *Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous.*
+> Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous.
 
-> *Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer.*
+> Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer.
 
-| Taille de la fratrie (1d10) | Sexe (1d10) | Âge (1d10) |
+| **Nb enfants (1d10)** | **Sexe (1d6)** | **Âge (1d10)** |
 | ---- | --- | ---- |
 | 1-3 Un enfant, 4-6 Deux enfants , 7-8 Trois enfants, 9 Quatre enfants, 10 Cinq enfants | Pair Garçon, Impair Fille | 1-2 Beaucoup plus jeune que vous, 3-4 Plus jeune que vous, 5 Jumeaux, 6-7 Plus âgé que vous, 8-9 Beaucoup plus âgé que vous, 10 *Relancez* |
 
 ### Pré adolescence
 
-> *Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer.*
+> Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer.
 
-| 1d10 | Difficultés familiale |
+| **1d10** | **Difficultés familiale** |
 | --- | --------- |
 | 1 | Parents divorcés |
 | 2 | Décès tragique d'un des parents |
@@ -71,11 +71,11 @@ La création de l'historique des personnages permet de mieux les définir et de 
 | 9 | Famille victime de racisme |
 | 10 | Difficultés avec la justice |
 
-> *Vous pouvez choisir un second ami d'enfance parmi les PJ autour de la table, qui vous a soutenu lors les crises familiales.*
+> Vous pouvez choisir un second ami d'enfance parmi les PJ autour de la table, qui vous a soutenu lors les crises familiales.
 
 ### Adolescence
 
-> *Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que les vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider.*
+> Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que les vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider.
 
 | 1d10 | Difficultés personnelles |
 | --- | --------- |
@@ -94,9 +94,9 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 Les personnages de Mystic Falls sont tous étudiants : soit au lycée, soit à l'université. L'un des attraits de ce style de jeu est de cumuler les difficultés de l'adolescence ou de la vie de jeune adulte, la jungle de l'environnement académique, l'horreur et le surnaturel. Un soin particulier doit donc être apporté à l'environnement académique. Comme pour l'environnement familial, vous allez poser les questions pour chaque étape de la création de l'environnement académique à tous les joueurs, et ne passerez à l'étape suivante qu'une fois qu'ils auront tous répondu.
 
-### Parcours académique
+### Cursus académique
 
-> *Que vous soyez au lycée ou à l'université, avez du choisir un cursus pour vos cours de spécialité. Vous pouvez vous inspirer de la table ci-après ou tirer sur cette table via 1d10.*
+> Que vous soyez au lycée ou à l'université, avez du choisir un cursus pour vos cours de spécialité. Vous pouvez vous inspirer de la table ci-après ou tirer sur cette table via 1d10.
 
 | 1d10 | Cursus | Exemple de cours |
 | --- | --- | --- |
@@ -113,7 +113,7 @@ Les personnages de Mystic Falls sont tous étudiants : soit au lycée, soit à l
 
 ### Activité annexe
 
-> *Votre activité annexe principale est importante pour réussir vos études car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est joue également un rôle de marqueur social important pour les étudiants. Quelle activité annexe pratiquez vous ? Inspirez-vous de la table ci-après ou laissez les dés vous inspirer.*
+> Votre activité annexe principale est importante pour réussir vos études car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est joue également un rôle de marqueur social important pour les étudiants. Quelle activité annexe pratiquez vous ? Inspirez-vous de la table ci-après ou laissez les dés vous inspirer.
 
 | 1d6| Catégorie | Détail (1d6) |
 | --- | --- | -------- |
@@ -128,7 +128,7 @@ Les membres d'une même activité se connaissent généralement et se considère
 
 ### Cliques, fraternités & sororités
 
-> *Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutient mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune.*
+> Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutient mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune.
 
 | 1d6 | Clique | Profil |
 | --- | --- | --- |
@@ -139,7 +139,7 @@ Les membres d'une même activité se connaissent généralement et se considère
 | 5 | Rebelles | Hors système ou antisystème |
 | 6 | Geeks | Passionnés de culture niche |
 
-> *Si vous êtes à l'université, vous pouvez rejoindre une fraternité ou une sororité. Contrairement aux cliques, ce sont des organisations formelles avec un processus d'intégration, une maison commune et des obligations réelles. Avez-vous rejoint une des fraternités ou des sororités à ce stade ?*
+> Si vous êtes à l'université, vous pouvez rejoindre une fraternité ou une sororité. Contrairement aux cliques, ce sont des organisations formelles avec un processus d'intégration, une maison commune et des obligations réelles. Avez-vous rejoint une des fraternités ou des sororités à ce stade ?
 
 Typiquement les fraternités et sororités ont des noms formés de deux ou trois lettres grecques combinées (par exemple Alpha Sigma Nu ou encore Phi Omega). Voici quatre propositions de fraternités et de sororités pour votre série, vous pouvez bien sûr créer les votres !
 
@@ -152,7 +152,7 @@ Interagir avec quelqu'un de sa clique ou de la même fraternité ou sororité pe
 
 ## Contact avec le surnaturel
 
-> *Si vous deviez changer et devenir une créature de la nuit, laquelle choisiriez-vous ? Sélectionnez dans la table ci-dessous ou laissez le hasard décider.*
+> Si vous deviez changer et devenir une créature de la nuit, laquelle choisiriez-vous ? Sélectionnez dans la table ci-dessous ou laissez le hasard décider.
 
 | 1d10 | Créature | Détails |
 | --- | ---- | ----------- |
