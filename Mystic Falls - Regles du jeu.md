@@ -19,9 +19,13 @@ Vous faites partie des jeunes gens qui étudient à Mystic Falls au lycée ou à
 
 ## Le système de jeu
 
-Mystic Falls est propulsé par le Skeleton, un système de jeu se distinguant par son accessibilité et son orientation vers la montée en stress et la génération de drama inhérente à ce genre de cadres. Le jeu propose une génération assez complète de personnage incluant le cadre familial, différentes étapes de l'enfance pour créer des liens entre les joueurs, les complications familiales et personnelles, et va jusqu'à proposer un système de gestion académique (heureusement assez simple) pour générer des situations de stress et approfondir les relations entre élèves.
+**Les monstres que nous sommes** est propulsé par le **Skeleton**, un système de jeu se distinguant par son accessibilité et son orientation vers la montée en stress et la génération de drama inhérente à ce genre de cadres. Le jeu propose une génération assez complète de personnage incluant le cadre familial, différentes étapes de l'enfance pour créer des liens entre les joueurs, les complications familiales et personnelles, et va jusqu'à proposer un système de gestion académique (heureusement assez simple) pour générer des situations de stress et approfondir les relations entre élèves.
 
 Le Skeleton est un système de jeu simple et modulaire à lecture directe qui se spécialise dans le développement des personnages et la résolution de scènes rapides et émotionnellement fortes. Le jeu utilise un dé à 100 faces (un dé à 10 faces de dizaines et un dé à 10 faces d'unités) ainsi qu'un ou deux dés à 6 faces. Le concept du système est simple : lorsqu'une situation mérite d'être testée, on lance 1d100 et si le résultat est inférieur ou égal au score du personnage, le test est un succès, sinon c'est un échec.
+
+## Le rythme de jeu
+
+**Les monstres que nous sommes** vous propose un rythme de jeu basé sur celui des séries télévisées du genre. La plus petite unité de temps que nous prenons en considération est la **scène**, durant laquelle les personnages interagissent avec leur environnement immédiat et avec les autres personnages proches. Une scène peut durer de quelques minutes à une heure. L'unité de temps suivante et l'**épisode**, qui est l'équivalent d'une session de jeu de rôle classique d'environ 4 heures. Un **scénario** est une histoire avec un début et une fin, qui peut tenir dans un seul épisode ou s'étaler sur deux voir trois épisodes. Une **saison** est une succession de scénarios menant à une révélation importante ou a un changement notable dans le cadre de jeu, et elle représente généralement une année dans l'univers du jeu. Enfin, la **série** c'est votre groupe de joueurs dans votre ville fictive : une ou plusieurs saisons vous permettait de faire vivre les protagonistes et de développer une histoire riche et pleine d'émotion.
 
 \cleardoublepage
 
@@ -37,7 +41,7 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 > Depuis votre naissance jusqu'à vos 10 ans, dans quel cadre familial êtes-vous né et avez-vous grandi ? Inspirez-vous librement dans la table ci-dessous ou laissez le hasard vous inspirer.
 
-| **1d10** | **Milieu** | **Activité familiale (1d10)** |
+| 1d10 | Milieu | Activité familiale (1d10) |
 | --- | ---- | ---------- |
 | 1 | Illégalité | 1-3 Tripot ou bar clandestin, 4-6 Prostitution, 7-8 Cambrioleurs, 9-10 Grand banditisme |
 | 2-3 | Agricole | 1-3 Agriculteurs, 4-6 Éleveurs, 7-8 Bûcherons, 9-10 Employés communaux |
@@ -50,7 +54,7 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 > Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer.
 
-| **Nb enfants (1d10)** | **Sexe (1d6)** | **Âge (1d10)** |
+| Nb enfants (1d10) | Sexe (1d6) | Âge (1d10) |
 | ---- | --- | ---- |
 | 1-3 Un enfant, 4-6 Deux enfants , 7-8 Trois enfants, 9 Quatre enfants, 10 Cinq enfants | Pair Garçon, Impair Fille | 1-2 Beaucoup plus jeune que vous, 3-4 Plus jeune que vous, 5 Jumeaux, 6-7 Plus âgé que vous, 8-9 Beaucoup plus âgé que vous, 10 *Relancez* |
 
@@ -58,7 +62,7 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 > Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer.
 
-| **1d10** | **Difficultés familiale** |
+| 1d10 | Difficulté familiale |
 | --- | --------- |
 | 1 | Parents divorcés |
 | 2 | Décès tragique d'un des parents |
@@ -77,7 +81,7 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 > Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que les vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider.
 
-| 1d10 | Difficultés personnelles |
+| 1d10 | Difficulté personnelle |
 | --- | --------- |
 | 1 | Identité de genre |
 | 2 | Préférence sexuelle |
@@ -115,7 +119,7 @@ Les personnages de Mystic Falls sont tous étudiants : soit au lycée, soit à l
 
 > Votre activité annexe principale est importante pour réussir vos études car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est joue également un rôle de marqueur social important pour les étudiants. Quelle activité annexe pratiquez vous ? Inspirez-vous de la table ci-après ou laissez les dés vous inspirer.
 
-| 1d6| Catégorie | Détail (1d6) |
+| 1d6| Catégorie | Activité (1d6) |
 | --- | --- | -------- |
 | 1 | Sport | 1 Football américain, 2 Basketball, 3 Natation, 4 Athlétisme, 5 Hockey sur glace, 6 Pom-pom-girl |
 | 2 | Arts de la scène | 1 Théâtre, 2-3 Chorale, 4 Orchestre, 5-6 Danse |
@@ -159,7 +163,7 @@ Interagir avec quelqu'un de sa clique ou de la même fraternité ou sororité pe
 | 1-3 | Humain | Vous ne faites pas partie des créatures terrifiantes qui peuplent la ville. Contrairement à vos camarades surnaturels, vous ne risquez pas de devenir un monstre, on peut toujours compter sur vous. |
 | 4-5 | Loup-Garou | Vous deviendrez une créature de griffe et de crocs qui hurle à la lune, tentant de résister à la rage qui risque de la submerger lorsque la faim de vie la tiraille. |
 | 6-7 | Sorcière | Vous pratiquez déjà la magie Wicca seule ou avec votre convent. Le vrai pouvoir s'éveillera bientôt en vous, rendant vos sorts puissants et menaçant de vous entraîner dans une spirale de corruption à chaque acte d'hubris. |
-| 8-9 | Vampire | Vous deviendrez une créature immortelle se nourrissant du sang des innocents et menaçant de céder à la frénésie lorsque la soif vous tiraille, vous éloignant de votre humanité. |
+| 8-9 | Vampire | Vous deviendrez une créature immortelle tiraillée par la soif, se nourrissant du sang des innocents et menaçant de céder à perversion et à l'immoralité. |
 | 10 | Leshy | Vous deviendrez une créature vengeresse façonnée comme une arme par la nature. Votre colère risquera de vous faire perdre la tête pour de bon alors que la pulsation des douleurs de la nature cognent dans votre cœur. |
 
 Le jeu implique qu'un certain nombre de personnages autour de la table deviendront des monstres, des créatures qui mettront en tension les personnages avec leur famille, leurs amis, leurs camarades de cours, voir même leur propre groupe. Cependant, la transformation du personnage est un moment important qui se doit d'être bien amené. Voici donc les conseils que nous pouvons vous donner : 
@@ -250,35 +254,23 @@ Un test de compétence est basé sur la valeur de la compétence à laquelle on 
 
 ## Test de résistance
 
-Une résistance est testée lorsqu'un événement vient mettre en danger la santé physique ou mentale du personnage. On teste d'abord la résistance via le lancer d'1d100 et pour chaque case de stress déjà cochée dans la résistance testée, on applique un malus de -10. Si le test est un succès, le personnage a résisté. S'il est échoué, le personnage subit l'échec dicté par la fiction, qui peut lui imposer un trauma (voir plus loin).
-
-Quel que soit le résultat du dé, une case de stress mental ou physique est cochée après le test.
+Une résistance est testée lorsqu'un événement vient mettre en danger la santé physique ou mentale du personnage. On teste d'abord la résistance via le lancer d'1d100 et pour chaque case de stress déjà cochée dans la résistance testée, on applique un malus de -10. Si le test est un succès, le personnage a résisté. S'il est échoué, le personnage subit l'échec dicté par la fiction, qui peut lui imposer un trauma (voir plus loin). Quel que soit le résultat du dé, une case de stress mental ou physique est cochée après le test.
 
 ## Les conflits
 
 Les compétences telles que le combat, le charisme ou l’occultisme peuvent être utilisés pour s’opposer à quelqu’un le temps de plusieurs actions, ce que nous appelons une scène de conflit. Lorsque cela se produit, un jet de dé opposé est réalisé entre les protagonistes. Le vainqueur est celui qui réussi son test et, si tout le monde réussi, celui qui a fait le plus haut score sur son dé. Le perdant doit éventuellement effectuer un test de résistance en fonction du type de conflit.
 
-> Mathématiquement, celui qui possède la compétence la plus haute est également celui qui a le plus de chances d'obtenir un succès avec un dé plus élevé. Il est statistiquement identique de comparer les marges de réussite, mais avouez que personne n'a envie de calculer la marge de réussite entre une compétence de 73 et un résultat de 26 au dé quand on peut simplement considérer le dé le plus haut.
-
 ### Le dépassement
 
-Lors d'un conflit, si le score d'un protagoniste dépasse 100, la valeur de dépassement est ajoutée au résultat du dé afin de départager les protagonistes. Par exemple un personnage possédant un score de combat de 92 amélioré de +30 grâce à des bonus particuliers se retrouve à 122. En cas de conflit, la valeur du dépassement de 22 permettra d'augmenter le résultat du dé et donc ses chances de réussite s'il faut départager les adversaires.
-
-## Réussites et échecs particuliers
-
-Lorsque le résultat brut du jet (avant un éventuel dépassement) fait apparaître un double (11, 44, 77, etc.) il s'agit d'un résultat particulier. Si le test était un succès alors il s'agit d'une réussite particulière, sinon c'est un échec particulier. Un résultat particulier est toujours remarquable et peut impacter significativement la scène, au choix du MJ.
+Lors d'un conflit, si le score d'un protagoniste dépasse 100, la valeur de dépassement est ajoutée au résultat du dé afin de départager les protagonistes. Par exemple un personnage possédant un score de combat de 92 amélioré de +30 grâce à des bonus particuliers se retrouve à 122. En cas de conflit, la valeur du dépassement de 22 permettra d'augmenter le résultat du dé et donc ses chances de réussite s'il est nécessaire de départager les adversaires.
 
 ## Le stress
 
-Tout au long d'un scénario, les personnages risquent de cumuler le **stress physique** aussi bien que le **stress mental**, et on ne s'en débarrasse pas si facilement. Chaque case de stress cochée impose un malus de **-10 à la résistance correspondante**. Pour se débarrasser d'une case de stress, il faut généralement une scène qui permette de justifier la récupération du stress. Dans le cas du stress physique, cela pourrait être des premiers soins, du repos ou des attentions particulières. Dans le cas du stress mental, le personnage doit agir en accord avec son **exutoire**. Dans ce cas, il récupère un point de stress. On ne peut utiliser son exutoire qu'une fois par séance.
-
-De plus, chaque nuit de sommeil fait disparaître un point de stress. Le stress disparaît toujours entre les scénarios.
+Tout au long d'un scénario, les personnages risquent de cumuler le **stress physique** aussi bien que le **stress mental**, et on ne s'en débarrasse pas si facilement. Chaque case de stress cochée impose un malus de **-10 à la résistance correspondante**. Pour se débarrasser d'une case de stress, il faut généralement une scène qui permette de justifier la récupération du stress. Dans le cas du stress physique, cela pourrait être des premiers soins, du repos ou des attentions particulières. Dans le cas du stress mental, le personnage doit agir en accord avec son **exutoire**. Dans ce cas, il récupère un point de stress. On ne peut utiliser son exutoire qu'une fois par séance. De plus, chaque nuit de sommeil fait disparaître un point de stress. Le stress disparaît toujours entre les scénarios.
 
 ## Les traumas
 
-Certains échecs aux résistances physiques ou mentales laissent des séquelles que nous appelons traumas. Un trauma est généralement subi lors de l'échec d'un test de résistance, si le MJ le juge approprié. Chaque trauma impose un malus de **-10 aux tests de compétence**, en dehors des tests de résistance.
-
-Les traumas physiques et mentaux ne disparaissent qu'à chaque nouveau scénario, avec l'accord du MJ.
+Certains échecs aux résistances physiques ou mentales laissent des séquelles que nous appelons traumas. Un trauma est généralement subi lors de l'échec d'un test de résistance, si le MJ le juge approprié. Chaque trauma impose un malus de **-10 aux tests de compétence**, en dehors des tests de résistance. Les traumas physiques et mentaux ne disparaissent qu'à chaque nouveau scénario, avec l'accord du MJ.
 
 # Matériel et équipement
 
@@ -299,7 +291,7 @@ Le niveau de vie du personnages dépend de son métier et de ses revenus réguli
 
 Les cases d'économies représentent les ressources que le personnage a pu mettre de côté, les trésors qu'il peut échanger ou revendre ou tout avantage de ressource temporaire qui ne fait pas pour autant monter son niveau de vie. Les cases d'économies peuvent être utilisés pour effectuer un achat au dessus de son niveau de vie. Dans ce cas, il faut dépenser les cases d'économies pour chaque niveau de vie au dessus du sien jusqu'à atteindre le niveau de vie requis pour l'acquisition du bien. Par exemple un personnage de niveau de vie précaire et qui souhaite acquérir un bien de niveau confortable doit dépenser 3 cases d'économies (1 pour atteindre le niveau modeste, puis 2 pour atteindre le niveau confortable).
 
-| Niveau de vie requis | Coût en cases d'économies |
+| Coût du bien | Coût en économies |
 | --- | --- |
 | Modeste | 1 |
 | Confortable | 2 |
@@ -312,9 +304,9 @@ Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracte
 
 ## L'expérience
 
-A la fin d’une séance, le MJ peut accorder de 1 à 5 coches d’expérience en fonction des actions des personnages et de la qualité de l'interprétation. Les joueurs peuvent cocher les case en forme de losange ◇ comme on en trouve au niveau des **compétences**, des **spécialités,** ou encore des **résistances**.
+A la fin d’une séance, le MJ peut accorder de 1 à 5 coches d’expérience en fonction des actions des personnages et de la qualité de l'interprétation. Les joueurs doivent alors cocher autant de cases en forme de losange ◇ comme on en trouve au niveau des **compétences**, des **spécialités,** ou encore des **résistances**.
 
-A la fin d’un scénario, tous les losanges cochés donnent droit à un jet de progression : pour les **compétences** et **résistances**, le joueur doit obtenir un résultat **strictement supérieur** à la valeur actuelle à faire progresser. S’il réussit, la valeur de son trait progresse du résultat d'1d6.
+A la fin d’un scénario, tous les losanges cochés donnent droit à un test de progression. Pour les **compétences**, **résistances** et **pouvoirs personnels**, si le joueur obtient un résultat **strictement supérieur** à la valeur actuelle, celle-ci progresse du résultat d'1d6. Si le résultat est inférieur ou égal, celle-ci progresse tout de même mais d'un point seulement.
 
 Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce cas, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
 
@@ -373,7 +365,7 @@ L'attribut de sérénité peut être testé pour éviter des accidents d'inatten
 
 ### Instabilité surnaturelle
 
-La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce qui se produit à chaque fois qu'un personnage subit un échec en maîtrise de soi et qu'il coche une de ses trois cases de trauma surnaturel (voir la fiche de créature spécifique).
+La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce qui se produit à chaque fois qu'un personnage subit un échec en maîtrise de soi et qu'il coche une de ses trois cases de trauma surnaturel. La seconde case de trauma surnaturel cochée entraîne la perte d'1d6 points de sérénité. La troisième entraîne la perte de 2d6 points de sérénité.
 
 ## Évolution des valeurs
 
@@ -385,13 +377,7 @@ Chaque début de scénario, on choisit où l'on a mis ses efforts durant la pér
 
 ## Relations suivies
 
-Mystic Falls met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**.
-
-Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément.
-
-Chaque lien possède trois axes : l'**amitié**, le **désir**et l'**admiration**. Lorsqu'un nouveau PNJ est ajouté dans une relation suivie, le MJ doit secrètement définir quels sont les **affinités;**entre le PNJ et le PJ. Il peut s'agir d'une affinité d'amitié, d'attirance ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité.
-
-La version négative de l'amitié est l'hostilité. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
+Mystic Falls met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément. Chaque lien possède trois axes : l'**amitié**, le **désir**et l'**admiration**. Lorsqu'un nouveau PNJ est ajouté dans une relation suivie, le MJ doit secrètement définir quels sont les **affinités;**entre le PNJ et le PJ. Il peut s'agir d'une affinité d'amitié, d'attirance ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité. La version négative de l'amitié est l'**hostilité**. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
 
 ### Amitié
 
@@ -409,24 +395,19 @@ Ce troisième axe de relation est celui des admirateurs et fans (ou leur version
 
 Les affinités représentent les envies profondes du PNJ envers le PJ. Comme nous l'avons vu plus haut, chaque PNJ a un score allant de 0 à 3 dans ses axes de relation. Mais ce qui détermine ce que recherche vraiment le PNJ, ce sont ses affinités.
 
-- Une affinité sur l'axe d'amitié indique que le PNJ ressent une connexion particulière et une compréhension envers le PJ, et qu'il pourrait fort bien devenir son meilleur ami.
-- Une affinité sur l'axe de désir indique que le PNJ est attiré sentimentalement et érotiquement par le PJ et qu'il aimerait que ça aille plus loin.
-- Une affinité sur l'axe d'admiration indique que le PNJ porte un intérêt fort aux activités du PJ et qu'il souhaite devenir son apprenti ou son mentor, en fonction de ses propres compétences dans le domaine.
+- Une affinité sur l'axe d'**amitié** indique que le PNJ ressent une connexion particulière et une compréhension envers le PJ, et qu'il pourrait fort bien devenir son meilleur ami.
+- Une affinité sur l'axe de **désir** indique que le PNJ est attiré sentimentalement et érotiquement par le PJ et qu'il aimerait que ça aille plus loin.
+- Une affinité sur l'axe d'**admiration** indique que le PNJ porte un intérêt fort aux activités du PJ et qu'il souhaite devenir son apprenti ou son mentor, en fonction de ses propres compétences dans le domaine.
 
 ## Développer une relation
 
-Il existe plusieurs moyens de développer une relation en termes de jeu.
+Les règles de développement des relations n'ont pas pour vocation de remplacer le roleplay, mais d'offrir une structure qui puisse faciliter la charge de travail du MJ tout en améliorant la lisibilité des relations pour les joueurs. Il existe ainsi plusieurs moyens de développer une relation en termes de jeu, en notant qu'une relation ne peut être développée qu'une seule fois par épisode.
 
-- **Côtoyer le PNJ** : le joueur peut découvrir l'une des valeurs d'amitié, de désir et d'admiration du PNJ à son égard et la reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard avant d'avoir tenté autre chose.
-- **Trainer avec le PNJ** : faire des activités ensemble comme des révisions, du sport, une sortie ciné ou simplement glander dans la rue. Cela peut faire monter l'amitié d'un cran si celle-ci est une relation d'affinité. 
-- **Proposer un rencart avec le PNJ** : si le PNJ accepte (si l'affinité le permet) alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse (parce qu'il n'a pas d'affinité), le PJ doit effectuer un jet de résistance mentale et en cas d'échec il écope du trauma "s'est pris un râteau".
-- **Accorder de l'attention au PNJ** : les admirateurs et les fans adorent quand leur idole prend le temps de discuter avec eux, leur explique comment il fait pour être aussi doué, leur donne des conseils, etc. L'admiration augmente d'un cran si une affinité existe entre les personnages.
-
-Une relation ne peut être développée qu'une seule fois par séance.
-
-Le PNJ d'une relation fardeau peut être jaugé tout comme n'importe quel PNJ (car on peut côtoyer la plupart des PNJ sans pour autant qu'ils vous apprécient dans un environnement académique), mais un PNJ hostile refusera certainement que le PJ traine avec lui ou encore lui accorde ses conseils. Quant à lui proposer un rencart... ça pourrait se terminer d'une manière surprenante.
-
-> Ces règles n'ont pas pour vocation de remplacer le roleplay, mais permettent aux joueurs de faire évoluer leurs relations de manière structurée afin qu'il soit plus aisé pour eux comme pour le MJ de savoir comment gérer le développement des relations.
+- **Côtoyer le PNJ** : le personnage joueur peut découvrir l'une des valeurs d'amitié, de désir et d'admiration du PNJ à son égard et la reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard par ce biais.
+- **Trainer avec le PNJ** : faire des activités ensemble comme des révisions, du sport, une sortie ciné ou simplement glander dans la rue. Cela peut faire monter l'amitié d'un cran si celle-ci est une relation d'affinité.
+- **Proposer un rencart avec le PNJ** : si le PNJ accepte (si l'affinité le permet) alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse (parce qu'il n'a pas d'affinité), le PJ doit effectuer un jet de résistance mentale et en cas d'échec il subit un trauma approprié. Personne n'aime se prendre un rateau.
+- **Accorder de l'attention au PNJ** : passer du temps avec le PNJ sur l'activité qui concerne son admiration pour vous est une bonne façon de gagner davantage de son intérêt. L'admiration augmente d'un cran si une affinité existe entre les personnages.
+- **Arrondir les angles avec le PNJ** : vous pouvez tenter d'être cool avec l'un des personnages qui ne vous aime pas (et donc l'axe d'amitié est dans le sens de l'hostilité), d'essayer de le cotoyer et de vous montrer sympathique malgré son hostilité. Si le PNJ a une affinité d'amitié avec vous, il est ainsi possible de diminuer son hostilité d'un cran jusqu'à la ramener à zéro (après quoi arrondir les angles ne servira plus à rien, et vous pourrez commencer à trainer avec). En l'absence d'affinité, le PNJ vous humiliera et son niveau d'hostilité augmentera d'un cran. Vous devrez sans doute effectuer un jet de résistance mentale ou subir un trauma approprié.
 
 ### Générer aléatoirement les relations
 
@@ -445,18 +426,46 @@ Lorsqu'un axe de relation atteint le nivau 5 (son maximum), le MJ peut estimer q
 
 Chaque créature surnaturelle possède ses propres règles spéciales, peut développer ses propres pouvoirs particuliers, et vient avec un risque non négligeable de perte de contrôle. Ce risque est géré par une résistance surnaturelle : la maîtrise de soi.
 
-## Maîtrise de soi
+## La maîtrise de soi
 
-Lorsqu'un événement est susceptible de mettre à mal le contrôle du personnage sur sa nature surnaturelle et laisser libre court à son côté monstrueux, il doit effectuer un test de maîtrise de soi. Ce test s'effectue de la même façon que les résistances physiques et mentales, en fait c'est une sorte de résistance d'auto-discipline.
+Lorsqu'un événement est susceptible de mettre à mal le contrôle du personnage sur sa nature surnaturelle et laisser libre court à son côté monstrueux, il doit effectuer un test de maîtrise de soi. Ce test s'effectue de la même façon que les résistances physiques et mentales, en fait c'est une sorte de résistance d'auto-discipline. Lorsqu'un personnage quitte sa nature humaine pour devenir une créature surnaturelle, sa maîtrise de soi est de 50.
 
-## Le stress surnaturel
+### Le stress surnaturel
 
 Le stress surnaturel est différent pour chaque créature, que cela soit la soif des vampires, la faim des loups-garous, l'hubris des sorcières ou la pulsation des leshys, il fonctionne néanmoins comme le stress physique ou mental classique : le personnage coche une case de stress surnaturel lorsqu'il a du faire un jet de maîtrise de soi, et chaque case cochée lui impose un malus de -10 aux prochains jets de maîtrise de soi.
 
-## Les traumas surnaturels
+### Les traumas surnaturels
 
-Échouer à un test de maîtrise de soi fait encourir un trauma surnaturel. Contrairement aux traumas classiques, les traumas surnaturels sont spécifiques à chaque créature et sont précisés sur la fiche de personnage. Ils sont échelonnés sur trois niveaux, du moins grave au plus grave. Lors d'un échec à la maîtrise de soi, il convient de juger des complications qui peuvent avoir lieu : est-ce qu'un autre élève a vu la scène ? Si oui, le PJ peut perdre 1d6 voir 2d6 points de popularité !
+Échouer à un test de maîtrise de soi fait encourir un trauma surnaturel. Contrairement aux traumas classiques, les traumas surnaturels sont spécifiques à chaque créature et sont précisés sur la fiche de personnage, par exemple la rage du loup-garou, la perversion du vampire, la corruption de la sorcière ou la colère du leshy. Ils sont échelonnés sur trois niveaux, du moins grave au plus grave. Lors d'un échec à la maîtrise de soi, il convient de juger des complications qui peuvent avoir lieu : est-ce qu'un autre élève a vu la scène ? Si oui, le PJ peut perdre 1d6 voir 2d6 points de popularité !
 
-## Perte totale de contrôle
+### Perte totale de contrôle
 
-A retravailler ?
+Lorsqu'un personnage coche sa troisième case de trauma surnaturel, il cède à la part sombre de sa nature et fuira son groupe par tous les moyens. A la fin de la séance, tirez un sort un des personnages joueurs de la table (incluant le personnage joueur qui a perdu le contrôle), puis lancez 1d6. Sur un résultat de 1 ou 2, un membre de la famille du malchanceux sera agressé par son camarade hors de contrôle. Sur un résultat de 3 ou plus, il s'agira de l'une de ses relations (tirez là au hasard). Apprendre que sa petite soeur ou son meilleur ami a été agressé par l'un de ses camarades ayant perdu le contrôle est une situation intéressante et explosive !
+
+En attendant, le joueur qui a perdu le contrôle de son personnage est invité à interpréter l'un des PNJ avec lequel le groupe a de bonnes relations afin de continuer à jouer.
+
+### Regagner le contrôle
+
+Le personnage joueur qui a perdu le contrôle ne peut le regagner seul : il devra être aidé par ses camarades et cela fera l'objet d'un épisode à part entière. Si les camarades du personnage joueurs hors de contrôle ne se pressent pas pour le sauver, alors tirez de nouveau au sort à la fin de chaque épisode et voyez qui sera agressé cette fois. Ses compagnons finiront bien par s'activer !
+
+## La malédiction du Loup-Garou
+
+Depuis qu’il vous a mordu alors que la lune était pleine, vous sentez la rage parcourir votre corps et la faim s’insinuer jusque dans vos rêves. Cette faim insatiable vous pousse à vivre chaque instant comme s’il était le dernier et vous encourage à laisser libre cours à vos pulsions.Vous avez découvert que vous pouviez vous transformer en loup-garou sous forme bestiale lorsque vous négligez trop votre faim, et lui préférez la forme hybride que vous pouvez plus aisément contrôler. Votre corps s’est renforcé et il guérit maintenant très vite de ses blessures ; vos sens sont plus affûtés, surtout votre ouïe et votre odorat. Vous sentez également la fascination mêlée de peur diffuse que vous provoquez chez les humains. Au chapitre des mauvaises nouvelles, vous êtes devenu sensible à l’argent et à l’aconit. Maintenir le secret de votre condition est maintenant aussi vital que de garder le contrôle de la bête qui sommeille en vous et qui pourrait blesser des êtres chers, ou pire.
+
+### Les formes du Loup-Garou
+
+En tant que loup-garou, vous pouvez utiliser deux formes à volonté : la forme humaine et la forme hybride. Quant à la forme bestiale, elle est incontrôlable et est à l'origine de la plupart des mythes terrifiants qui concernent les enfants de la lune. Toutes les formes ont ceci en commun : Votre ouïe et odorat sont améliorés au delà de la limite humaine ; vous échouez systématiquement un test de résistance physique contre l’argent ou l’aconit ; vous pouvez guérir d'un trauma physique à chaque nuit de sommeil.
+
+- **Forme humaine** : Peu après votre première morsure, les compétences suivantes augmentent : +5 en athlétisme, +5 en combat, +5 en vigilance et +5 en bagou. Vous obtenez également un bonus de +5 à la résistance physique. Ces bonus en compétences ne sont pas des modificateurs et font maintenant partie de vos valeurs de base. Votre corps est maintenant capable de régénérer lentement de ses blessures : vous récupérez un de vos stress physiques à la fin d’une scène.
+- **Forme hybride** : Sous forme hybride, votre musculature devient plus imposante, vos traits empruntent ceux du loup et une aura intimidante de prédateur se dégage de vous. Votre voix est également plus rauque mais votre diction reste suffisamment fluide pour que vous puissiez vous faire comprendre. Sous cette forme, vous obtenez un modificateur de +10 en athlétisme, +20 en combat et +5 en vigilance. Vous obtenez un modificateur de +10 à votre résistance physique et vos griffes provoquent des dégâts de +10. Vous récupérez tout votre stress physique à la fin d’une scène.
+- **Forme bestiale** : Sous forme bestiale, vous n’avez plus aucune maîtrise de vous-même et prenez l’apparence des créatures de terreur des légendes pour la durée d’une scène. Tant que vous êtes sous cette forme vous obtenez un modificateur de +20 en athlétisme, +50 en combat et +10 en vigilance. Vous obtenez un modificateur de +20 en résistance physique. Vous récupérez tout votre stress physique à la fin d’une scène. Vos griffes et vos crocs deviennent des armes létales apportant un bonus de +20 en dégâts.
+
+### Les pouvoirs personnels
+
+Chaque loup-garou peut développer jusqu'à trois pouvoirs qui lui sont propres. Lorsqu'un nouveau pouvoir est acquis, il débute avec un score de 50. Si le pouvoir peut être utilisé pour améliorer directement une compétence, alors son score peut s'ajouter à celui de la compétence, permettant un dépassement du score de compétence. Sinon, le pouvoir peut être utilisé de manière autonome via son propre score. Vous trouverez ci après quelques exemples de pouvoirs personnels pour les loups-garous.
+
+<A insérer ici>
+
+### La faim et la rage
+
+La maitrise de soi du lopu-garou vous permet de garder le contrôle lorsque vous vous sentez agressé, frustré ou qu'un danger immédiat vous menace. Chaque case de Faim cochée entraîne un malus de -10 à la maîtrise de soi. Après chaque test de maîtrise de soi, cochez une case de faim. Vous pouvez diminuer votre faim en vous laissant aller à celle-ci au cours d’une scène. Lorsque vous cochez la première case de rage, le garou vous submerge et vous force à réagir avec excès, de plus vous perdez 1d6 points en sérénité. La seconde case de rage cochée vous oblige à vos transformer en forme hybride et vous perdez le contrôle de vous pour une scène et perdez 1d6 points en sérénité et en maîtrise de soi. Lorsque vous cochez la troisième case de rage, votre personnage passe en forme bestiale et vous en perdez complètement le contrôle. Le personnage devient PNJ tant qu’il n’a pas été ramené du bon côté. Vous perdez 2d6 en sérénité et en maîtrise de soi. Lorsque la pleine lune apparaît dans le ciel pour la première fois durant la nuit, si votre maîtrise de soi est inférieure à 65, vous devez la tester. Si vous échouez, vous vous transformez en forme bestiale pour la scène. Si vous réussissez, cochez la première case de rage si elle ne l’était pas. Tant que vous n’avez pas coché les 3 cases de rage, vous effacez une case de rage à chaque nouvelle séance.
